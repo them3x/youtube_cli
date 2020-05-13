@@ -1,7 +1,7 @@
 # youtube_cli
 
-Search for channels or videos and download the chosen video using youtube-dl
+Search for channels or videos and download the chosen video using youtube-dl with Command line
 
-![Search](https://ibb.co/h2BR1Ht)
+![](https://i.ibb.co/ssKvJQM/youtube.png)
 
-![Download](https://ibb.co/m9r5LDZ)
+![](https://i.ibb.co/3p5mDr6/prog2.png)
