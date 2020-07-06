@@ -1,0 +1,8 @@
+version 1.2-0
+ - bugs na função para listar titulo de videos corrigida
+ - function to watch videos without downloading
+
+version 1.1-0
+ - created youtube-cli
+ - function to search videos on youtube
+ - function to download videos with youtube-dl
