@@ -1,7 +1,16 @@
 # youtube_cli
 
-Search for channels or videos and download the chosen video using youtube-dl with Command line
-*
+Watch or download youtube video from the command line*
+
+**Python Lib Dependencies**
+* youtube-dl
+* pafy
+* python-vlc
+
+```
+pip install <dependencies>
+python2 youtube_cli.py
+```
 *
 ![Search](https://i.ibb.co/ssKvJQM/youtube.png)
 
