@@ -11,7 +11,16 @@ Watch or download youtube video from the command line*
 pip install <dependencies>
 python2 youtube_cli.py
 ```
-*
-![Search](https://i.ibb.co/ssKvJQM/youtube.png)
 
-![Download](https://i.ibb.co/3p5mDr6/prog2.png)
+**Basic usage**
+```
+-d <Video url>            Download video URL
+-s <keyword to search>    Search videos in youtube
+-w <Video or Live url>    Watch videos wihout download
+
+--help                    to see more options
+```
+![Search](https://libregit.org/M3X/youtube_cli/raw/branch/master/img/search.png)
+![Download](https://libregit.org/M3X/youtube_cli/raw/branch/master/img/download.png)
+![Watch1](https://libregit.org/M3X/youtube_cli/raw/branch/master/img/watch1.png)
+![watch2](https://libregit.org/M3X/youtube_cli/raw/branch/master/img/watch2.png)
