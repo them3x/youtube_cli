@@ -2,6 +2,13 @@
 
 Watch or download youtube video from the command line*
 
+**Packages Dependencies**
+* python2
+* vlc
+```
+[apt or yum or guix etc...] install <dependencies>
+```
+
 **Python Lib Dependencies**
 * youtube-dl
 * pafy
