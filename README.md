@@ -1,4 +1,5 @@
 # youtube_cli
+**Version 1.2-0**
 
 Watch or download youtube video from the command line*
 
