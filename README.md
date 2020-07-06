@@ -5,6 +5,7 @@ Watch or download youtube video from the command line*
 **Packages Dependencies**
 * python2
 * vlc
+
 ```
 [apt or yum or guix etc...] install <dependencies>
 ```
@@ -27,6 +28,11 @@ python2 youtube_cli.py
 
 --help                    to see more options
 ```
+
+
+-----
+**Screenshots**
+
 ![Search](https://libregit.org/M3X/youtube_cli/raw/branch/master/img/search.png)
 ![Download](https://libregit.org/M3X/youtube_cli/raw/branch/master/img/download.png)
 ![Watch1](https://libregit.org/M3X/youtube_cli/raw/branch/master/img/watch1.png)
