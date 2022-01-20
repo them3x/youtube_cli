@@ -1,4 +1,4 @@
-# youtube_cli
+# youtube_cli (The program is unusable until it is rewritten, as youtube removed the dislike counter)
 **Version 1.2-0**
 
 Watch or download youtube video from the command line*
